@@ -1,0 +1,13 @@
+﻿{
+  "Name": "Conmutación de tareas",
+  "Type": "Screen",
+  "Id": "eploFDRPhUSM-jC_pYKADg",
+  "Reference": "Ti7eIbJ5B06_ta4rBMZO9Q/eploFDRPhUSM-jC_pYKADg",
+  "ParentRef": "Ti7eIbJ5B06_ta4rBMZO9Q/y1CWEt-UhUiLMe72uIpaPA",
+  "Created": "2026-07-16T17:17:18.5492029Z",
+  "Updated": "2026-07-16T17:17:18.5492029Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=26.10.0.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=26.4.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
