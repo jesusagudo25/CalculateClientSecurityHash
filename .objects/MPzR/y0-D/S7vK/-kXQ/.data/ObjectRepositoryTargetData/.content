@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="HVQPj5pY_kqkubb76Vs6-Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="sha1-online.com" DesignTimeRectangle="675, 521, 499, 32" ElementType="InputBox" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl id='textToHashId' tag='INPUT' /&gt;" Guid="b597054e-9b35-496c-af71-134f8c08c406" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAAfMAAAAgCAYAAAAG0pF+AAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAC/SURBVHhe7dVBDQJBFETBtTJ6vp9xhTQssBtI9kDAwEuqkzq1gHecZmZmlt6x1joBgKaZEXMAqHqHfO8t5gBQdIf8J+av5wMACLhDLuYAECXmABAn5gAQJ+YAECfmABAn5gAQJ+YAECfmABAn5gAQJ+YAECfmABAn5gAQJ+YAECfmABAn5gAQJ+YAECfmABAn5gAQJ+YAECfmABAn5gAQJ+YAECfmABAn5gAQJ+YAEPc35jPzdQAADZ+YCzkAdF0sWRD//dVofwAAAABJRU5ErkJggg==" ScopeSelectorArgument="&lt;html app='chrome.exe' title='SHA1 online' /&gt;" SearchSteps="Selector, Image" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="29ebf0305f0169e0b83a57efd17413a3.jpg" xmlns="">0W2Gp56cVcUaq6bYEDnBB8Q</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
