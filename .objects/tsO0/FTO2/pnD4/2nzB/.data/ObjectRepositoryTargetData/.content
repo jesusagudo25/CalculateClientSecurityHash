@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-16"?>
-<ObjectRepositoryTargetData ContentHash="fTBUuz19uESyyvdZS2q9-Q" Reference="Ti7eIbJ5B06_ta4rBMZO9Q/2nzBd-TrKkyc9GGChhbCzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+<ObjectRepositoryTargetData ContentHash="5jjDyA2z30ukwHoh3-r9cg" Reference="Ti7eIbJ5B06_ta4rBMZO9Q/2nzBd-TrKkyc9GGChhbCzQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:p="http://schemas.microsoft.com/netfx/2009/xaml/activities" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
   <ObjectRepositoryTargetData.Data>
-    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/work-items" DesignTimeRectangle="383, 577, 1498, 631" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="9c375a0f-a8f9-462d-bea6-1299049e3969" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
-      <imageRef attrName="InformativeScreenshot" originalValue="4a309e6c69b84b579994ad8600bf757a.jpg" xmlns="">03T9eYlDa_UuD_nxFqpOnLA</imageRef>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="https://acme-test.uipath.com/work-items" DesignTimeRectangle="211, 431, 1498, 631" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl tag='TABLE' /&gt;" Guid="0b37b602-2984-4074-b13b-7dfce5af69bc" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1*' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f533db4d19ac6950914ffc007f4a1a5a.jpg" xmlns="">0jmc1akHt9keOKiDSiOlETA</imageRef>
     </TargetAnchorable>
     <x:String x:Key="ActivityType">ExtractDataGeneric</x:String>
     <p:InArgument x:TypeArguments="x:String" x:Key="ExtractDataSettings" xml:space="preserve">&lt;Table xmlns:xsi='http://www.w3.org/2001/XMLSchema-instance' xmlns:xsd='http://www.w3.org/2001/XMLSchema' Type='Table' AddCvHeader='true' IsScrollEnabled='false'&gt;
@@ -57,7 +57,7 @@
 	&lt;/Column&gt;
 	&lt;Column xsi:type='DataNextLink' /&gt;
 &lt;/Table&gt;</p:InArgument>
-    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="acme-test.uipath.com/work-items" DesignTimeRectangle="1668, 784, 33, 33" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='Next »' tag='A' /&gt;" Guid="83af6b6b-8794-4f74-9b01-358fcb3d6b27" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector" Version="V6" WaitForReadyArgument="Interactive">
+    <TargetAnchorable x:Key="NextLinkTarget" BrowserURL="acme-test.uipath.com/work-items" DesignTimeRectangle="1668, 784, 33, 33" ElementType="Text" ElementVisibilityArgument="Interactive" FullSelectorArgument="&lt;webctrl aria-label='Next »' tag='A' /&gt;" Guid="5423fd22-db5b-4d43-bc4e-c58b27ebf049" ImageBase64="iVBORw0KGgoAAAANSUhEUgAAACEAAAAhCAYAAABX5MJvAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAAFiUAABYlAUlSJPAAAAGfSURBVFhHzVexboMwEPXXogp1ypKBoeqWge6ZujFkzdKh2dORgaGZOqEIBEJCQUgMXPWsgIgJac7ghic9ReDj7sXnO9uCZgChvriFqqrodDpRlmWUJAnFcUxRFMlfPOM9xmHHwV0iiqKgNE1lwHsJe3x3D26KKMtS/kM1AIf4Hn5uYVBEnuc9h2MIf0PoiajrWuZWdTIF4Rf+VfREmBLQEP5VXIiYOgVDVFPTisDiUY1NsrtYWxFjq4BLxLsQgXpWjf6DTR+RIriNaCoirhSBFqsODjHYrOhlvaX9IeyN6RLxBXq9OjDEwFuSZVmStuOSt/MpPPbtOER8weoLx5D8nUeuY7diLHsxanYQX+hWRXjY0/Z9Rc7zWYzm7CC+aLZjfYb0/bWl9euC7LOYpRdcsbtOxBfqSz4h4oO8N4fsJ74IUHsmwh+fPj13dDrkTLDWhIGFKdcEpzpMlKisDlafMNCsZJ/gdEwTlB1zFnvHbHZRgFUlE7B3ngBmcbICHn7GbMDpGzr887QNzOLe0WDq1Kgp6GJQBPDwu2gXpm/lvwDf4eBPqXVEAAAAAElFTkSuQmCC" ScopeSelectorArgument="&lt;html app='chrome.exe' title='ACME System 1 - Work Items' /&gt;" SearchSteps="Selector, Image" Version="V6" WaitForReadyArgument="Interactive">
       <TargetAnchorable.PointOffset>
         <PointOffset X="0" Y="0" />
       </TargetAnchorable.PointOffset>
